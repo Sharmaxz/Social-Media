@@ -1,7 +1,8 @@
-## Social Media API
+# Social Media
 
-Social Media is a site where do you find your friends a share your pictures!
+The project consists of two applications, one on the [Web](https://github.com/Sharmaxz/Social-Media) and the other [API](https://github.com/Sharmaxz/Social-Media-API).The project is a social network where you can personalize your profile, post images, leave comments and even add friends!
 
->It is a final college project for the .NET semester. [The web project](https://github.com/Sharmaxz/Social-Media) consists of having a website that consumes information from the [Social Media API](https://github.com/Sharmaxz/Social-Media-API). S
 
-[Instituto INFNET](https://www.infnet.edu.br/esti/proposta-graduacao-em-engenharia-de-computacao/)
+## Institute
+
+[Instituto INFNET](https://www.infnet.edu.br/esti/)
